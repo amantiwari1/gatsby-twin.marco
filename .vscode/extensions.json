@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "jpoissonnier.vscode-styled-components",
+    "vscode-icons-team.vscode-icons",
+    "lightyen.tailwindcss-intellisense-twin",
+    "esbenp.prettier-vscode",
+    "ecmel.vscode-html-css",
+    "kumar-harsh.graphql-for-vscode",
+    "eamodio.gitlens",
+    "dbaeumer.vscode-eslint",
+    "wesbos.theme-cobalt2",
+    "coenraads.bracket-pair-colorizer",
+    "formulahendry.auto-rename-tag"
+  ]
+}
